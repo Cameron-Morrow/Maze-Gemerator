@@ -1,0 +1,5 @@
+﻿  mazeGenerator2.cpp
+c:\users\cmorrow\source\repos\mazegenerator2\mazegenerator2\mazegenerator2.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\cmorrow\source\repos\mazegenerator2\mazegenerator2\mazegenerator2.cpp(84): warning C4309: '=': truncation of constant value
+c:\users\cmorrow\source\repos\mazegenerator2\mazegenerator2\mazegenerator2.cpp(364): warning C4715: 'buildPseudoMaze': not all control paths return a value
+  mazeGenerator2.vcxproj -> C:\Users\cmorrow\source\repos\mazeGenerator2\Debug\mazeGenerator2.exe
